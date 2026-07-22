@@ -187,7 +187,7 @@ I love creating interactive websites and solving real-world problems through tec
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arshiyasyed2004&theme=algolia&margin-w=15"/>
+<img src="[ttps://github-profile-trophy.vercel.app/?username=arshiyasyed2004&theme=algolia&margin-w=15](https://github-readme-stats.vercel.app/api?username=arshiyasyed2004...)"/>
 
 </p>
 
