@@ -1,82 +1,220 @@
-<h1 align="center">Hello there! I am Arshiya Syed 👁️</h1>
+<h1 align="center">Hi 👋, I'm C Syed Arshiya Anjum</h1>
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
-</div>
-
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+<h3 align="center">
+Frontend Developer • Java Developer • Cloud & AI Enthusiast
 </h3>
 
-## Introduction
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+Developer;React+Developer;Cloud+Computing+Enthusiast;AI+%26+IoT+Explorer;Always+Learning+New+Technologies!" />
+</p>
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+---
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+## 🚀 About Me
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+🎓 B.Tech Computer Science & IoT Student at GITAM University
 
+💻 Passionate about Frontend Development and Cloud Computing
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+🌱 Currently learning
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+- React.js
+- FastAPI
+- AWS
+- Machine Learning
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+🔭 Working on
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+- Cloud-Based Crop Health Monitoring
+- React Projects
+- AI Applications
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+⚡ Fun Fact
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+I love creating interactive websites and solving real-world problems through technology.
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+---
 
-## Contact us
+## 🌐 Connect With Me
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<p align="left">
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+
+<a href="mailto:syedarshiyaanjum49@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/arshiyasyed2004">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,c,cpp,mysql,git,github,vscode,figma,azure,aws" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🌱 Cloud-Based Crop Health Monitoring
+
+> FastAPI • Python • AWS S3 • Deep Learning
+
+✔ AI-powered crop disease detection
+
+✔ Secure image upload using AWS S3
+
+✔ Automated PDF report generation
+
+---
+
+## ☁️ Automated Cloud Sync File Monitoring
+
+> Python • Google Drive API
+
+✔ OAuth 2.0 Authentication
+
+✔ Folder Monitoring
+
+✔ Automatic Cloud Upload
+
+✔ Raspberry Pi Simulation
+
+---
+
+## 📄 Media Sphere PDF Viewer
+
+> Electron.js • JavaScript • HTML • CSS
+
+✔ Zoom
+
+✔ Search
+
+✔ Keyboard Shortcuts
+
+✔ Thumbnail Navigation
+
+✔ Modular Architecture
+
+---
+
+## 🌍 3D Portfolio Website
+
+> React.js • React Three Fiber • Vite
+
+✔ Interactive Solar System Theme
+
+✔ Responsive Design
+
+✔ Optimized Performance
+
+---
+
+# 🏆 Certifications
+
+🏅 Google Cloud Computing Foundations
+
+🏅 Introduction to Generative AI
+
+🏅 JavaScript Essentials 1
+
+🏅 SQL Using AI Workshop
+
+🏅 TCS iON Career Edge
+
+🏅 Salesforce Virtual Internship
+
+---
+
+# 🛠 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshiyasyed2004&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyasyed2004&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyasyed2004&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arshiyasyed2004&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyasyed2004&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=arshiyasyed2004&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Success comes from consistency, curiosity, and continuous learning."
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
