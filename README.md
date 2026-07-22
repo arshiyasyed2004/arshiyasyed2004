@@ -162,13 +162,15 @@ I love creating interactive websites and solving real-world problems through tec
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arshiyasyed2004&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyasyed2004&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arshiyasyed2004&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyasyed2004&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="180"
+  />
 </p>
-
 ----
 
 # 🔥 GitHub Streak
